@@ -1,0 +1,1 @@
+uvicorn server:app --reload --ssl-keyfile server_private_key.pem --ssl-certfile server_public_key.pem
